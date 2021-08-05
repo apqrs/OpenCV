@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import time
 
-
+#update added
 # mpDraw.draw_landmarks(img, handLms, mpHands.HAND_CONNECTIONS)
 # if len(x)==2:
 #     d = ((x[1][0]-x[0][0])**2+(x[1][1]-x[0][1])**2)**0.5
